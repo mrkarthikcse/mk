@@ -1,0 +1,2 @@
+go die
+die biorn
